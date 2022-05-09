@@ -1,6 +1,6 @@
 {
   "name": "statcounter",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "StatCounter analytics for nodejs + react + typescript",
   "author": "peteristhegreat",
   "license": "MIT",
